@@ -17,6 +17,6 @@ A big thanks to **GitHub Pages** for offering a **fast, secure, and free hosting
 ## 📞 Connect with Me  
 📧 **Email:** tasnim@satisfyhost.com  
 🌍 **Website:** [SatisfyHost](https://satisfyhost.com)  
-💼 **LinkedIn:** [My LinkedIn Profile]((https://www.linkedin.com/in/ahtasnim/))  
+💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ahtasnim/)  
 
 🔹 Feel free to explore, star ⭐ the repo, or connect with me!  
